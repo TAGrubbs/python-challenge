@@ -1,7 +1,7 @@
 import os
 import csv
 import numpy as np
-csvpath = os.path.join('..', 'Resources', 'Pybank', 'budget_data.csv')
+csvpath = os.path.join('Resources', 'budget_data.csv')
 
 dates= []
 profitOrLoss= []
